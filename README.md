@@ -124,7 +124,7 @@ Set `AUTH_GITHUB_ID`, `AUTH_GITHUB_SECRET`, `AUTH_SECRET`.
 pnpm db:migrate-local
 ```
 
-### Development
+### Developmentdawdas
 
 1. Start development server:
 ```bash
